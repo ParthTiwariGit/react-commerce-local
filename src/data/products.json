@@ -1,0 +1,251 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Wireless Headphones",
+    "category": "Electronics",
+    "price": 199.99,
+    "originalPrice": 299.99,
+    "rating": 4.5,
+    "reviews": 1234,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=500",
+      "https://images.unsplash.com/photo-1545127398-14699f92334b?w=500"
+    ],
+    "description": "High-quality wireless headphones with noise cancellation and premium sound quality.",
+    "features": ["Active Noise Cancellation", "40-hour battery life", "Premium sound quality", "Comfortable design"],
+    "inStock": true,
+    "colors": ["Black", "Silver", "Rose Gold"],
+    "sizes": [],
+    "brand": "AudioTech",
+    "discount": 33
+  },
+  {
+    "id": 2,
+    "name": "Classic Denim Jacket",
+    "category": "Men",
+    "price": 79.99,
+    "originalPrice": 129.99,
+    "rating": 4.7,
+    "reviews": 856,
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500",
+      "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=500"
+    ],
+    "description": "Timeless denim jacket perfect for any casual occasion.",
+    "features": ["100% Cotton", "Classic fit", "Multiple pockets", "Durable construction"],
+    "inStock": true,
+    "colors": ["Blue", "Black", "Light Wash"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "brand": "DeniCo",
+    "discount": 38
+  },
+  {
+    "id": 3,
+    "name": "Elegant Summer Dress",
+    "category": "Women",
+    "price": 89.99,
+    "originalPrice": 149.99,
+    "rating": 4.8,
+    "reviews": 2341,
+    "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=500",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500"
+    ],
+    "description": "Flowing summer dress with elegant design and comfortable fabric.",
+    "features": ["Lightweight fabric", "Floral print", "Adjustable straps", "Machine washable"],
+    "inStock": true,
+    "colors": ["Floral Blue", "Floral Pink", "Solid White"],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "brand": "SummerStyle",
+    "discount": 40
+  },
+  {
+    "id": 4,
+    "name": "Smart Fitness Watch",
+    "category": "Electronics",
+    "price": 249.99,
+    "originalPrice": 349.99,
+    "rating": 4.6,
+    "reviews": 3421,
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=500",
+      "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=500"
+    ],
+    "description": "Advanced fitness tracking with heart rate monitoring and GPS.",
+    "features": ["Heart rate monitor", "GPS tracking", "Water resistant", "7-day battery"],
+    "inStock": true,
+    "colors": ["Black", "Silver", "Gold"],
+    "sizes": [],
+    "brand": "FitTech",
+    "discount": 29
+  },
+  {
+    "id": 5,
+    "name": "Leather Crossbody Bag",
+    "category": "Women",
+    "price": 129.99,
+    "originalPrice": 199.99,
+    "rating": 4.9,
+    "reviews": 1876,
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=500",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=500"
+    ],
+    "description": "Genuine leather crossbody bag with elegant design and practical compartments.",
+    "features": ["Genuine leather", "Multiple compartments", "Adjustable strap", "Premium finish"],
+    "inStock": true,
+    "colors": ["Brown", "Black", "Tan"],
+    "sizes": [],
+    "brand": "LuxLeather",
+    "discount": 35
+  },
+  {
+    "id": 6,
+    "name": "Modern Coffee Maker",
+    "category": "Home",
+    "price": 149.99,
+    "originalPrice": 229.99,
+    "rating": 4.4,
+    "reviews": 987,
+    "image": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=500"
+    ],
+    "description": "Programmable coffee maker with thermal carafe and auto-shutoff.",
+    "features": ["Programmable timer", "Thermal carafe", "Auto-shutoff", "12-cup capacity"],
+    "inStock": true,
+    "colors": ["Stainless Steel", "Black"],
+    "sizes": [],
+    "brand": "BrewMaster",
+    "discount": 35
+  },
+  {
+    "id": 7,
+    "name": "Running Shoes",
+    "category": "Men",
+    "price": 119.99,
+    "originalPrice": 169.99,
+    "rating": 4.7,
+    "reviews": 4521,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500",
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=500"
+    ],
+    "description": "High-performance running shoes with superior cushioning and support.",
+    "features": ["Breathable mesh", "Cushioned sole", "Lightweight design", "Durable outsole"],
+    "inStock": true,
+    "colors": ["Black/White", "Blue/White", "Gray/Orange"],
+    "sizes": ["7", "8", "9", "10", "11", "12"],
+    "brand": "RunFast",
+    "discount": 29
+  },
+  {
+    "id": 8,
+    "name": "Yoga Mat Set",
+    "category": "Home",
+    "price": 39.99,
+    "originalPrice": 69.99,
+    "rating": 4.6,
+    "reviews": 2156,
+    "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=500"
+    ],
+    "description": "Premium yoga mat with carrying strap and extra thickness for comfort.",
+    "features": ["Non-slip surface", "Extra thick padding", "Eco-friendly material", "Carrying strap included"],
+    "inStock": true,
+    "colors": ["Purple", "Blue", "Pink", "Gray"],
+    "sizes": [],
+    "brand": "YogaPro",
+    "discount": 43
+  },
+  {
+    "id": 9,
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "price": 89.99,
+    "originalPrice": 139.99,
+    "rating": 4.5,
+    "reviews": 5632,
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500",
+      "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=500"
+    ],
+    "description": "True wireless earbuds with premium sound and long battery life.",
+    "features": ["Active noise cancellation", "Touch controls", "30-hour battery", "IPX5 water resistant"],
+    "inStock": true,
+    "colors": ["White", "Black"],
+    "sizes": [],
+    "brand": "SoundWave",
+    "discount": 36
+  },
+  {
+    "id": 10,
+    "name": "Casual Sneakers",
+    "category": "Women",
+    "price": 69.99,
+    "originalPrice": 99.99,
+    "rating": 4.8,
+    "reviews": 3241,
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500",
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500"
+    ],
+    "description": "Comfortable casual sneakers perfect for everyday wear.",
+    "features": ["Cushioned insole", "Breathable canvas", "Rubber sole", "Stylish design"],
+    "inStock": true,
+    "colors": ["White", "Black", "Navy"],
+    "sizes": ["5", "6", "7", "8", "9", "10"],
+    "brand": "ComfortStep",
+    "discount": 30
+  },
+  {
+    "id": 11,
+    "name": "Stainless Steel Water Bottle",
+    "category": "Home",
+    "price": 29.99,
+    "originalPrice": 44.99,
+    "rating": 4.7,
+    "reviews": 1876,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=500"
+    ],
+    "description": "Insulated stainless steel water bottle keeps drinks cold for 24 hours.",
+    "features": ["Double-wall insulation", "BPA-free", "Leak-proof lid", "32oz capacity"],
+    "inStock": true,
+    "colors": ["Silver", "Black", "Blue", "Pink"],
+    "sizes": [],
+    "brand": "HydroFlask",
+    "discount": 33
+  },
+  {
+    "id": 12,
+    "name": "Slim Fit Chinos",
+    "category": "Men",
+    "price": 59.99,
+    "originalPrice": 89.99,
+    "rating": 4.6,
+    "reviews": 2134,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=500"
+    ],
+    "description": "Modern slim-fit chinos perfect for work or casual occasions.",
+    "features": ["Stretch fabric", "Slim fit", "Multiple colors", "Wrinkle-resistant"],
+    "inStock": true,
+    "colors": ["Khaki", "Navy", "Gray", "Black"],
+    "sizes": ["28", "30", "32", "34", "36", "38"],
+    "brand": "UrbanFit",
+    "discount": 33
+  }
+]
